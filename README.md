@@ -1,5 +1,7 @@
 # distcc -- a free distributed C/C++ compiler system
 [![Build Status](https://travis-ci.org/distcc/distcc.svg?branch=master)](https://travis-ci.org/distcc/distcc)
+[![Code Quality: Cpp](https://img.shields.io/lgtm/grade/cpp/g/distcc/distcc.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/distcc/distcc/context:cpp)
+[![Total Alerts](https://img.shields.io/lgtm/alerts/g/distcc/distcc.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/distcc/distcc/alerts)
 
 by Martin Pool
 
